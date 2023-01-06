@@ -22,10 +22,10 @@ So we started The Decade Project. The goal is to shrink the gap to 10 years inst
 
 Data Source: 
             
-            Employer firms data is from the Annual Business Survey in the year of 2020. Data Link: https://data.census.gov/table?q=AB2000CSA01
+            Employer firms data is from the Annual Business Survey in the year of 2020. 
+            Data Link: https://data.census.gov/table?q=AB2000CSA01
             
-            Population data is from the U.S. Census Bureau Population Estimates, 2020. Data Link: https://www2.census.gov/programs-surveys/popest/datasets/
+            Population data is from the U.S. Census Bureau Population Estimates, 2020. 
+            Data Link: https://www2.census.gov/programs-surveys/popest/datasets/
 
-Notes on Data: 
-            
-            Due to insufficient businesses in that state, the Annual Business Survey did not always give company numbers for certain racial, ethnic, and gender combinations, which has implications for the quality and privacy of the data. Although the real number may be somewhat over zero, we replaced these occurrences with an estimate of zero businesses in order to keep track of the number of firms for these groupings. Additionally, we decided to only include businesses with a majority of female owners in our calculations, rather than those with female owners who make up a smaller percentage of the ownership.
+Notes on Data: Due to insufficient businesses in that state, the Annual Business Survey did not always give company numbers for certain racial, ethnic, and gender combinations, which has implications for the quality and privacy of the data. Although the real number may be somewhat over zero, we replaced these occurrences with an estimate of zero businesses in order to keep track of the number of firms for these groupings. Additionally, we decided to only include businesses with a majority of female owners in our calculations, rather than those with female owners who make up a smaller percentage of the ownership.
