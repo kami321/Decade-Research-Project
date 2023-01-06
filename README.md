@@ -1,4 +1,4 @@
-# Business Ownership Should Look Like Us
+# Business Ownership Should Look Like US
 
 ## Does Business Ownership Look Like America?
 
