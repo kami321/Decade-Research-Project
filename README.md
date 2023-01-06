@@ -4,19 +4,19 @@
 
 Not yet. We are missing over 2 millions businesses owned by women and people of color.
 
-That is what it would take for business ownership to match the gender, race, and ethnic diversity of the United States. If we assume that talent, grit, and ingenuity is widely distributed, that means that there are likely 2.4 million women and people of color who want to start businesses that hire employees, but are currently stalled on the sidelines.
+For company ownership to reflect the gender, racial, and cultural diversity of the United States, that is what would be necessary. If ability, tenacity, and inventiveness are assumed to be widely dispersed, then there are probably 2.4 million women and people of color who wish to launch enterprises that employ people but are now stuck on the sidelines.
 
 ## Why Does It Matter?
 
 Over 20 million new jobs for all Americans regardless of gender or color.
 
-Starting new businesses, the fundamental base of U.S. economic innovation and leadership, is at a 40 year low. We need the richness of ideas and hard work that these entrepeneurs bring to the business playing field. If business ownership did look like America there would be over 20 million new jobs in the U.S. and our GDP would increase by 20% (over $4 trillion). 
+The fundamental underpinning of American economic innovation and leadership, the creation of new firms, is at a 40-year low. We require these entrepreneurs' innovative thinking and tenacity on the business scene. More than 20 million additional employment and a 20% (over $4 trillion) boost in our GDP would result in company ownership in the United States.
 
 ## Aren't We Getting There Anyways?
 
 If current trends continue, it would take more than a century to get there.
 
-So we started The Decade Project. The goal is to shrink the gap to 10 years instead. An audacious goal - maybe even a little crazy - we admit. But so was the idea of creating America. We have to look at what has prevented it from happening, and to get there we will have to knock down the financial, social, and emotional capital barriers. This is a team sport; join us with your ideas, initiative, and connections.
+Finding a technique to reduce the gap to 10 years is the aim of this research. We admit that it is an ambitious, if not little insane, ambition. However, so was the notion of founding America. In order to get there, we will need to break down the obstacles including social, emotional, and financial capital. We must examine what has stopped it from happening. Join us with your ideas, initiative, and contacts since this is a team sport.
 
 ## This Data - take a look at the state and see how close are we. 
 
